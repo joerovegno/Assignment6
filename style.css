@@ -1,0 +1,26 @@
+div{
+	width: 40%;
+	border-style: solid;
+	height: 100px;
+	margin: 25px;
+	background-color: lightgrey;
+	font-family: helvetica;
+}
+
+#one{
+	margin-right: auto;
+	margin-left: auto
+}
+
+#two, #three{
+	display: inline-block;
+}
+
+#five{
+	width: 2%;
+	height: 25px;
+	background-color: skyblue;
+	position: relative;
+	left: 38%;
+	bottom: 56px;
+}
